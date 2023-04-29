@@ -1,0 +1,24 @@
+#root{
+    padding: 1rem 10rem;
+}
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+}
+.navbar img{
+    width: 20%;
+}
+.navbar ul{
+    width: 70%;
+    display: flex;
+    justify-content: space-between;
+}
+.navbar ul li{
+    list-style-type: none;
+}
+li a{
+    text-decoration: none;
+    color: black;
+
+}
